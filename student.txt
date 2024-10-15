@@ -2,3 +2,10 @@ Registration Number: 12220880
 Name: Nunna Bhanushankar
 Age: 20
 Address: Khammam , Telangana.
+10th Standard Marks: 100%
+12th Standard Subjects with Marks:
+  - Mathematics: 99
+  - Physics: 95
+  - Chemistry: 93
+UG Qualification: B.Sc. (Computer Science), Aggregate: 91%
+
